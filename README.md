@@ -31,22 +31,38 @@ Classified
 
 
 Name = Plot ID
+
 Northing = Y coordinate in Swereff 99 TM
+
 Easting = X coordinate in Swereff 99 TM
+
 Elevation = Elevation from GPS unit. Not very accurate
+
 Waypoint = Same as plot ID
+
 Soil_moist = Messured soil moisture. Not accurate
+
 Average_so = Average penetration
+
 F5cm = Penetration depth after 5 bonks
+
 F10cm = Penetration depth after 10 bonks
+
 F15 = Penetration depth after 15 bonks
+
 Soil_class = Soil moisture classified in the field based on vegetation patterns. 1: Dry, 2: Mesic, 3:Mesic-Moist, 4: Moist, 5: Wet
 O_horison = Messured O horizon in cm
+
 Kpa5 = Cone Penetration index based on 5 bonks
+
 Kpa10 = Cone penetration index after 10 bonks
+
 Kpa15 = Cone penetration index after 15 bonks
+
 Prob = Probability from SLU Soil moisture map. 0 % is dry and 100 % is wet.
+
 Classified = Values extracted from the classified version of the SLU Soil moisture map.
+
 Kpa5, Kpa10 and Kpa15 are the most relevant data collected in the field. These are what we want to investigate. you can either use Kpa15 or average them together.
 
 p Ground pressure [Pa]
