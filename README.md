@@ -9,7 +9,7 @@ Is soil bearing capacity significantly different in the different soil classes?
 Can the wet area maps be used to plan forestry operations to avoid rutting near streams?
 
 ## Data
-Sample plots were laid out along transects crossing streams and ground soil bearing capacity, along with other parameters correlated to ground bearing capacity, were collected for each sample plot. Field data were linked to the WAM via GPS-coordinates belonging to the respective sample plot. This data can be downloaded here: https://github.com/williamlidberg/Penetration (Links to an external site.)
+Sample plots were laid out along transects crossing streams and ground soil bearing capacity, along with other parameters correlated to ground bearing capacity, were collected for each sample plot. Field data were linked to the WAM via GPS-coordinates belonging to the respective sample plot. 
 
 These are the most relevant columns to look at: 
 
